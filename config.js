@@ -1,26 +1,26 @@
-const token = ""; //tu met ton token entre les guillemets
-const prefix = ""; //tu met ton prefix entre les guillemets
-const image = ""; //tu met le lien de ton image entre les guillemets
-const color = ""; //tu met ton la couleur (EXEMPLE RANDOM, RED, BLACK) ou un code couleur html comme #0CDF7C, #0F0000 dispo sur ce site ou autre https://htmlcolorcodes.com/fr/
+const token = "NzAzMzA2MjA4OTExNjg3Njgw.YMoDJA.pFfp43RRDwGaZMFXblm4HIaSP24"; //tu met ton token entre les guillemets
+const prefix = ">"; //tu met ton prefix entre les guillemets
+const image = "https://media.discordapp.net/attachments/854802032372482048/854855041050607646/image1.gif"; //tu met le lien de ton image entre les guillemets
+const color = "BLACK"; //tu met ton la couleur (EXEMPLE RANDOM, RED, BLACK) ou un code couleur html comme #0CDF7C, #0F0000 dispo sur ce site ou autre https://htmlcolorcodes.com/fr/
 const twitch = ""; //tu met ton lien twitch ici 
-const nsfw = ""; //tu met on ou off (on pour activer le nsfw et off pour le désactiver)
-const nitro_claimer = ""; //tu met on ou off (on pour activer l'auto claimer et off pour le désactiver)
-const afkmp = ""; //tu met on ou off (on pour activer le afkmp et off pour le désactiver)
+const nsfw = "on"; //tu met on ou off (on pour activer le nsfw et off pour le désactiver)
+const nitro_claimer = "on"; //tu met on ou off (on pour activer l'auto claimer et off pour le désactiver)
+const afkmp = "on"; //tu met on ou off (on pour activer le afkmp et off pour le désactiver)
 const multi_status = ["punchnox-project", "V2.0.2", "by punchnox"]; //tu met le text que tu veut avoir en multi stream tu peut en mettre plus que 3 stv mais il faut bien mettre une virgule 
 const console = ""; //ici c'est l'intencité des couleurs de la console 1 c'est des couleurs pale 2 des couleurs vives et 3 des couleurs sombres
-const premium = "" //Mettez votre clée premium ici pas obligé
+const premium = "><" //Mettez votre clée premium ici pas obligé
 const team = "" //Si vous faites parti d'une team en aliance avec le punchnox-project vous pouvez mettre votre key ici
 
 ////CONFIG RPC
 const application_id = ""; //tu met l'id de ton bot pour les rpc
 const imagerpc = ""; //tu met le nom de ton image rpc
-const title = ""; //tu met le titre rpc
-const details = ""; //tu met le detail rpc
-const state = ""; //tu met la state rpc
-const largetext = ""; //tu met le text de ta grande image
-const smalltext = ""; //tu met le text de ta petite image
-const sizeplayer = ""; //tu met le nombre de joueurs actuel (1 jusque à 999999999999)
-const sizeplayermax = "" //tu met le nombre de joueurs maximum (1 jusque à 999999999999)
+const title = "Nucker"; //tu met le titre rpc
+const details = "Nuker bot"; //tu met le detail rpc
+const state = "Nucker"; //tu met la state rpc
+const largetext = "Nucker bot"; //tu met le text de ta grande image
+const smalltext = "Nucker"; //tu met le text de ta petite image
+const sizeplayer = "999"; //tu met le nombre de joueurs actuel (1 jusque à 999999999999)
+const sizeplayermax = "999" //tu met le nombre de joueurs maximum (1 jusque à 999999999999)
 
 
 
