@@ -1,11 +1,11 @@
-const token = ""; //tu met ton token entre les guillemets
-const prefix = ""; //tu met ton prefix entre les guillemets
+const token = "ODUyNjY0MzAwNzE4Nzg0NTgy.YUnrKw.CBHrWqjSS8dh25G7i8EYWW1mfrk"; //tu met ton token entre les guillemets
+const prefix = ","; //tu met ton prefix entre les guillemets
 const image = ""; //tu met le lien de ton image entre les guillemets
-const color = ""; //tu met ton la couleur (EXEMPLE RANDOM, RED, BLACK) ou un code couleur html comme #0CDF7C, #0F0000 dispo sur ce site ou autre https://htmlcolorcodes.com/fr/
+const color = "BLACK"; //tu met ton la couleur (EXEMPLE RANDOM, RED, BLACK) ou un code couleur html comme #0CDF7C, #0F0000 dispo sur ce site ou autre https://htmlcolorcodes.com/fr/
 const twitch = ""; //tu met ton lien twitch ici 
-const nsfw = ""; //tu met on ou off (on pour activer le nsfw et off pour le désactiver)
-const nitro_claimer = ""; //tu met on ou off (on pour activer l'auto claimer et off pour le désactiver)
-const afkmp = ""; //tu met on ou off (on pour activer le afkmp et off pour le désactiver)
+const nsfw = "on"; //tu met on ou off (on pour activer le nsfw et off pour le désactiver)
+const nitro_claimer = "on"; //tu met on ou off (on pour activer l'auto claimer et off pour le désactiver)
+const afkmp = "off"; //tu met on ou off (on pour activer le afkmp et off pour le désactiver)
 const multi_status = ["punchnox-project", "V2.0.2", "by punchnox"]; //tu met le text que tu veut avoir en multi stream tu peut en mettre plus que 3 stv mais il faut bien mettre une virgule 
 const console = ""; //ici c'est l'intencité des couleurs de la console 1 c'est des couleurs pale 2 des couleurs vives et 3 des couleurs sombres
 const premium = "" //Mettez votre clée premium ici pas obligé
